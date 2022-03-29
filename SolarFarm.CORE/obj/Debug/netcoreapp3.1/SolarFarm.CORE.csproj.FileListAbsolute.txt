@@ -1,0 +1,10 @@
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\bin\Debug\netcoreapp3.1\SolarFarm.CORE.deps.json
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\bin\Debug\netcoreapp3.1\SolarFarm.CORE.dll
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\bin\Debug\netcoreapp3.1\SolarFarm.CORE.pdb
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.csproj.AssemblyReference.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.AssemblyInfoInputs.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.AssemblyInfo.cs
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.csproj.CoreCompileInputs.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.dll
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.CORE\obj\Debug\netcoreapp3.1\SolarFarm.CORE.pdb

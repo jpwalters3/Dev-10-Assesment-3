@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolarFarm.DAL/1.0.0": {
+        "dependencies": {
+          "SolarFarm.CORE": "1.0.0"
+        },
+        "runtime": {
+          "SolarFarm.DAL.dll": {}
+        }
+      },
+      "SolarFarm.CORE/1.0.0": {
+        "runtime": {
+          "SolarFarm.CORE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarFarm.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarFarm.CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\bin\Debug\netcoreapp3.1\SolarFarm.DAL.deps.json
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\bin\Debug\netcoreapp3.1\SolarFarm.DAL.dll
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\bin\Debug\netcoreapp3.1\SolarFarm.DAL.pdb
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\bin\Debug\netcoreapp3.1\SolarFarm.CORE.dll
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\bin\Debug\netcoreapp3.1\SolarFarm.CORE.pdb
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.csproj.AssemblyReference.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.AssemblyInfoInputs.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.AssemblyInfo.cs
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.csproj.CoreCompileInputs.cache
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.csproj.CopyComplete
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.dll
+C:\Users\john0\source\repos\Assessments\Assessment3\SolarFarm.DAL\obj\Debug\netcoreapp3.1\SolarFarm.DAL.pdb
